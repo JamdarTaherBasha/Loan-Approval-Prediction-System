@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+loan_model.pkl
+.env
